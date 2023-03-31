@@ -1,9 +1,3 @@
-// Made by some great people...
-// They are in SAE and TGW
-// They are legends known by the names Ritwik, Sahil and Parth.
-// You won't be able to find out who wrote this XD
-
-
 #include <BasicLinearAlgebra.h>
 #include <math.h>
 using namespace BLA;
